@@ -1,5 +1,5 @@
-#ifndef BCDDecoderDriver74LS47
-#define BCDDecoderDriver74LS47
+#ifndef BCDDecoderDriver74LS47_h
+#define BCDDecoderDriver74LS47_h
 
 #include "Arduino.h"
 
